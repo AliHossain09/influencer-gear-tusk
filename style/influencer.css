@@ -48,13 +48,13 @@ nav h3 {
 
 .head {
     display: flex;
-    
-    
-    
+
+
+
 }
 
 .head-left {
-   padding-right:130px ;
+    padding-right: 130px;
 }
 
 .head-title {
@@ -91,7 +91,7 @@ nav h3 {
     position: absolute;
     width: 400px;
     height: 375px;
-    
+
 
 
 
@@ -105,4 +105,20 @@ button {
     align-items: flex-start;
     gap: 8px;
     border: 0;
+}
+
+/* company logo style section */
+.company-logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   padding: 200px 120px 0px 120px;
+   width: auto;
+   
+}
+
+.logo{
+    padding: 30px;
+    
+
 }
